@@ -1,4 +1,4 @@
-<p align="center"><a href="" target="_blank"><img src="https://raw.githubusercontent.com/daveleone/academework-uniba/main/public/art/logo.png" width="400" alt="Graph Visualizer Logo"></a></p>
+<p align="center"><a href="" target="_blank"><img src="https://raw.githubusercontent.com/daveleone/graph-gui/refs/heads/main/resources/icon.svg" width="400" alt="Graph Visualizer Logo"></a></p>
 
 # Graph Visualizer
 
