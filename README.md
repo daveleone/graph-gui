@@ -15,6 +15,27 @@ A Python-based application for graphical representation and manipulation of grap
 - Support for basic graph algorithms
 - Export and import of graph data
 
+## Supported Libraries
+
+Graph Visualizer supports multiple Python graph libraries for importing graph data and, where applicable, exporting the generated code.  
+This allows users to explore graphs within the application while maintaining compatibility with widely used graph frameworks.  
+
+Currently supported libraries include:
+
+- **NetworkX**  
+- **Graph-tool**
+- **igraph**
+- **PyVis**
+- **PyGraphviz**
+- **DGL (Deep Graph Library)** 
+- **SNAP**
+
+Future versions may extend the range of supported libraries and improve export functionality.
+
+### Future Developments
+
+While the current implementation of metrics relies on **NetworkX**, future versions will focus on integrating more efficient algorithms and extending support for advanced computations across different libraries.
+
 ## Getting Started
 
 ### Prerequisites
